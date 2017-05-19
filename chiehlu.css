@@ -1,0 +1,92 @@
+.navbar {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+li a {
+  font-color: white;
+  display: block;
+  padding: 10px 20px;
+}
+li a:hover {
+  background-color: #585858;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  margin: 30px 0px 10px 0px;
+}
+img {
+  text-align: center;
+}
+
+#about {
+  margin: 70px 100px 0px 100px;
+  background-color: white;
+}
+#des {
+  padding: 50px 50px 0px 50px;
+}
+#profilepic {
+  padding: 50px 50px 0px 0px;
+}
+#education {
+  margin: 0px 100px 100px 100px;
+  padding: 30px 50px 30px 50px;
+  background-color: white;
+}
+
+#poster {
+  font-size: 10px;
+  text-align: center;
+}
+
+#research {
+  background-color: #FBEFFB;
+  margin: 0px 100px 0px 100px;
+  padding: 20px 0px 10px 50px;
+}
+#researchend{
+  background-color: #FBEFFB;
+  margin: 0px 100px 0px 100px;
+  padding: 20px 0px 10px 50px;
+  border-bottom: 4px solid white;
+}
+#researchtitle {
+  background-color: #FBEFFB;
+  margin: 0px 100px;
+  padding: 30px 10px 10px 10px;
+  border-bottom: 2px solid white;
+}
+
+#webdesign {
+  background-color: #380B61;
+  margin: 0px 100px;
+  padding: 30px 50px;
+}
+#webtitle {
+  color: white;
+  background-color: #380B61;
+  margin: 0px 100px;
+  padding: 30px 10px 10px 10px;
+  border-bottom: 2px solid white;
+}
+
+.sec1 {
+  background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/10451739_10205660690178165_600711188507209334_n.jpg?oh=77dde335d71a5565706b95ae28b8f7d4&oe=59A2D8BE");
+  margin: 0px;
+  padding: 10px 0px;
+}
+.sec4 {
+  padding: 50px 30px 30px 30px;
+  color: white;
+  background-color: #585858;
+}
+.footer{
+  padding: 0px 0px 20px 0px;
+  color: white;
+  background-color: #585858;
+}
