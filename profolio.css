@@ -25,7 +25,7 @@ img {
 
 #about {
   margin: 70px 100px 0px 100px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 #des {
   padding: 50px 50px 0px 50px;
@@ -36,7 +36,7 @@ img {
 #education {
   margin: 0px 100px 100px 100px;
   padding: 30px 50px 30px 50px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 #poster {
@@ -76,7 +76,7 @@ img {
 }
 
 .sec1 {
-  background-image: url("img/profolio background image.jpg");
+  background-image: url("img/background image.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 0px;
